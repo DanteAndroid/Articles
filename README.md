@@ -1,7 +1,19 @@
+# Articles
+
+## 技术文章
+
 - [Android面试题](/Android面试题总结.md)
 - [Kotlin笔记](/KotlinNote.md)
 - [Git笔记](/GitNote.md)
 - [多渠道](/多渠道版本发布.md)
+
+## 非技术文章
+
+- [ISTJ人格](/ISTJ.md)
+- [如何租个好房子](/RentGuide.md)
+- [常见IT单词错误发音](/WrongPronunciation.md)
+- [如何反馈Bug？](/HowToSubmitBug.md)
+- [隱私權條款](/隱私權條款.md)
 
 # DevelopNote
 
